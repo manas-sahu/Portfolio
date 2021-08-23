@@ -18,7 +18,7 @@ $(document).ready(function() {
 	});
 
 	var typed = new Typed(".typed", {
-		strings: ["Senior Software Engineer.", "Web Developer."],
+		strings: ["Frontend Development.", "Technical Lead."],
 		typeSpeed: 70,
 		loop: true,
 		startDelay: 1000,
